@@ -1,0 +1,2 @@
+# Clustering-Earthquakes-in-West-Java-Using-Machine-Learning-Algorithm
+It is important to understand seismicity in West Java, Indonesia, which lies within the Pacific Ring of Fire and is prone to seismic events. We analyze data from earthquakes that occurred between September 2022 and September 2023. We use the K-medoids clustering method to organize the data into clusters with medoids as central representatives. 
